@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Zadatak 2</title>
+</head>
+<body>
+<h1> Amsterdam </h1>
+
+<p><b>Glavni grad Holandije</p></b>
+
+</body>
+
+<img>
+<img src="https://static.independent.co.uk/2023/10/12/16/newFile-1.jpg" width="600" height="600" alt="Grad umjetnosti i kulture">
+</img>
+
+<a href="https://en.wikipedia.org/wiki/Amsterdam">Wikipedia</a>
+
+<a href="https://www.zajednookosveta.com/amsterdam-dobro-dosli-u-najliberalniji-grad-u-evropi/">Zanimljivosti</a>
+
+<a href="https://storymaps.arcgis.com/stories/c5a4a3b746a043dd85d32fcad4819f99">Link</a>
+
+<p> <iframe src= "https://maps.app.goo.gl/5RSsn2TQNWdtQ1ZH7"> Link </p>
+
+<h1 style="background-color:Violet;">Dobrodošli u najliberalniji grad u Evropi</h1>
+<p style="background-color:StateBlue;">U prestonici Holandije se nalazi 165 kanala čija dužina prelazi 100 kilometara i preko kojih je podignuto preko 1,500 mostova. Amsterdamski kanali su neraskidivo povezani sa trgom (i nekadašnjom branom) Dam, mestom oko kog se grad širio i oko kog je u 17. veku izgrađen polukružni prsten kanala poznat kao Grachtengordel. Ovaj prsten, koji je uvršten na Uneskovu listu svetske baštine, čine 4 kanala: Singel, Herengracht, Keizersgracht i Prinsengracht. </p>
+ 
+</html>
